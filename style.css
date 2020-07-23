@@ -1,0 +1,27 @@
+.main{
+    margin-top: 18px;
+    height: 400px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.main1,.main2,.main3,.main4,.main5,.main6{
+    width: 400px;
+    height: 400px;
+    margin: 6px;  
+    border: 3px solid black;
+    margin-top: 20px;
+}
+
+img{
+    width: 310px;
+    height: 320px;
+    margin-left: 20px;
+    margin-top: 8px;
+    cursor: pointer;
+
+}
+
+
+#more {display: none;}
